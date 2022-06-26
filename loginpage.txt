@@ -1,0 +1,58 @@
+<<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title> LOGIN PAGE </title>
+</head>
+<body>
+	<table border="3 " align="center" bgcolor=" yellow" >
+
+		
+		<caption> <font color="black" face="Times New Roman" size="+2">LOGIN PAGE</font></caption>
+<tr>
+	<td><font color="black" face="Times New Roman" size="+2"> Enter Your Name</font></td>
+	<td><input type="Name" placeholder="Enter Name" name=""></td>
+
+</tr>
+<tr>
+	<td><font color="black" face="Times New Roman" size="+2">Enter Password</font></td>
+	<td><input type="Password" placeholder="Password" name=""></td>
+</tr>
+<tr>
+	<td><font color="black" face="Times New Roman" size="+2">Enter Your Email</font>
+</td>
+<td>
+	<input type="Email"placeholder="Email" name="">
+</td>
+</tr>
+<tr>
+	<td><font color="black" face="Times New Roman" size="+2">Gender</font></td>
+	<td> Male<input type="radio" name="a"> Female<input type="radio" name="a"></td>
+</tr>
+<tr>
+	<td><font color="black" face="Times New Roman" size="+2">
+		Select Your Country</font>
+	</td>
+	<td>
+		<select>
+			<option>Select your Country </option>
+			<option>India</option>
+			<option>USA</option>
+			<option>Austrialia</option>
+			<option>Germany</option>
+			<option>Swedan</option>
+		</select>
+	</td>
+
+</tr>
+<tr>
+	<td colspan="2" align="center"><input type="submit" name="LOGIN"></td>
+</tr>
+</table>
+
+
+	
+</body>
+</html>
+ 
