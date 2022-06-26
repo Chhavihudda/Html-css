@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Marquee</title>
+</head>
+<body>
+<marquee direction="right" behavior="alternate" onmouseover="stop()" onmouseout="start()" scrollamount="15"> <font color="red" size="+13" face="algerian">
+	my html page</font></marquees>
+	<br>
+
+	<img src="download.jfif" height="200px" width="200px">
+	<img src="download (1).jfif" height="200px" width="200px">
+	<img src="download.jfif" height="200px" width="200px">
+	<img src="download (1).jfif" height="200px" width="200px">
+	<br>
+		<marquee direction="right" behavior="slide" scrollamount="15"> <font color="red" size="+13" face="times new roman">
+	chhavi </font></marquees>
+	<br>
+</body>
+</html>
