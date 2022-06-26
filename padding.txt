@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+<style type="text/css">
+	p{
+		background-color: palegreen;
+		color: black;
+		font-size: 50px;
+	}
+	#ss{margin-top: 500px;
+		margin-left: 200px;
+		padding-top: 50px;
+		padding-right: 100px;
+		padding-bottom: 150px;
+		padding-left: 200px;
+	}
+	.dd{
+		height: 300px;
+		width: 900 px;
+		border: 1px dashed blue;
+		margin-left: 250px;
+	}
+	#nn{
+		height: 300px;
+		width: 300px;
+		border: 1px solid red;
+		float: left;
+	}
+	#ee{height: 300px;
+		width: 300px;
+		border: 1 px solid saddlebrown;
+		float: left;
+		border-radius: ;
+	}
+	#pp{
+		height: 300px;
+		width: 300px;
+		border: 1px solid green;
+		float: left;
+	}
+	#aa{height: 300px;
+		width: 294px;
+		border: 1 px solid darkviolet;
+		float: left;
+		border-radius: ;
+	}
+	}
+
+
+
+</style>
+
+</div>
+
+</head>
+<body>
+<p>Welcome Everyonee!!;)</p>
+<p id='ss'>Good Afternoon !! :)</p>
+<div class="dd">
+	<div id="nn">
+		<img src="puppy.jpg"style="height: 300px;width:300px;">
+	</div>
+	<div id="ee">
+		<img src="download (1).jfif" style="height:300px;width: 300 px;border-radius: 50%;">
+</div>
+<div id="pp">
+	<img src="puppy.jpg" style="height: 300px;width:300px;">
+	
+</div>
+<div id="aa">
+		<img src="download (1).jfif" style="height:300px;width: 294px;border-radius: 50%;">
+</div>
+</div>
+
+</body>
+</html>
